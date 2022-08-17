@@ -8,5 +8,5 @@ Hello, my name is Rune Anderson and this is my portfolio for my intro to Softwar
 ## My Work ##
 -  Construction
 ## My Hobbies ##
-Competetive Soccer
-Gaming
+Competetive Soccer 
+and Gaming
