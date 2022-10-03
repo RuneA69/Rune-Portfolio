@@ -8,3 +8,7 @@
 ## My Hobbies ##
 Competetive Soccer 
 and Gaming
+
+## typing
+- keys learned
+- J,F, space
